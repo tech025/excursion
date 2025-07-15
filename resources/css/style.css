@@ -1,3 +1,16 @@
 body {
     background-color: black;
 }
+h1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+  text-align: center;
+}
+#large-header{
+    font-weight: normal;
+    font-size: 50px;
+}
+#small-header, #small-header_2{
+    font-weight: 300;
+    font-size: 42px;
+}
